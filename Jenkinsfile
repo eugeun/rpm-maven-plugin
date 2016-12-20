@@ -1,4 +1,4 @@
-#!/usr/bin/env groovy
+#!groovy
 
 node ('base') {
 	git https://github.com/eugeun/rpm-maven-plugin.git
